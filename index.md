@@ -13,3 +13,8 @@
 $ git init
 Initialized empty Git repository in ...
 ```
+
+- [x] Add headers to markdown 
+- [x] Add image to markdown
+- [x] Add code block to markdown
+- [ ] This item is not complete
